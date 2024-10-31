@@ -10,19 +10,19 @@
 
 |Model Name|Overall|Attribute Recognition|Blood Vessels Recognition|Bone|Cell Recognition|Counting|Disease Diagnosis|Image Quality Grading|Microorganism Recognition|Muscle|Nervous Tissue|Organ Recognition - Abdomen|Organ Recognition - Head and Neck|Organ Recognition - Pelvic|Organ Recognition - Thorax|Severity Grading|Surgeon Action Recognition|Surgical Instrument Recognition|Surgical Workflow Recognition|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Qwen2-VL-7B-Instruct|**0.4646153846**|0.5037037037|0.4814814815|0.3828571429|0.4260869565|0.3085106383|0.5386427898|0.36|0.4074074074|0.26|0.625|0.5224489796|0.5032258065|0.5066666667|0.5117647059|0.2767857143|0.3304347826|0.2970711297|0.2857142857|
+|Qwen2-VL-7B-Instruct|**0.4646**|0.5037|0.4815|0.3829|0.4261|0.3085|0.5386|0.3600|0.4074|0.2600|0.6250|0.5224|0.5032|0.5067|0.5118|0.2768|0.3304|0.2971|0.2857|
 
 #### Departments
 
 |Model Name|Overall|Cardiovascular Surgery|Dermatology|Endocrinology|Gastroenterology and Hepatology|General Surgery|Hematology|Infectious Diseases|Laboratory Medicine and Pathology|Nephrology and Hypertension|Neurosurgery|None|Obstetrics and Gynecology|Oncology (Medical)|Ophthalmology|Orthopedic Surgery|Otolaryngology (ENT)/Head and Neck Surgery|Pulmonary Medicine|Sports Medicine|Urology|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Qwen2-VL-7B-Instruct|**0.4646153846**|0.7176470588|0.4486486486|0.64|0.4804878049|0.3259911894|0.3427947598|0.5428571429|0.3813229572|0.7466666667|0.8|0.4133333333|0.4524495677|0.4446397188|0.4472222222|0.5230769231|0.5358024691|0.5768115942|0.5222222222|
+|Qwen2-VL-7B-Instruct|**0.4646**|0.7176|0.4486|0.6400|0.4805|0.3260|0.3428|0.5429|0.3813|0.7467|0.8000|0.4133|0.4524|0.4446|0.4472|0.5231|0.5358|0.5768|0.5222|
 
 #### Perceptual Granularities
 
 |Model Name|Overall|Box level|Contour level|Image level|Mask level|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Qwen2-VL-7B-Instruct|**0.4646153846**|0.3627118644|0.4815205913|0.4637865311|0.4815205913|
+|Qwen2-VL-7B-Instruct|**0.4646**|0.3627|0.4815|0.4638|0.4815|
 
 ## Citation
 
