@@ -14,8 +14,8 @@
 
 #### Departments
 
-|Model Name|Overall|Cardiovascular Surgery|Dermatology|Endocrinology|Gastroenterology and Hepatology|General Surgery|Hematology|Infectious Diseases|Laboratory Medicine and Pathology|Nephrology and Hypertension|Neurosurgery|None|Obstetrics and Gynecology|Oncology (Medical)|Ophthalmology|Orthopedic Surgery|Otolaryngology (ENT)/Head and Neck Surgery|Pulmonary Medicine|Sports Medicine|Urology|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Model Name|Overall|Cardiovascular Surgery|Dermatology|Endocrinology|Gastroenterology and Hepatology|General Surgery|Hematology|Infectious Diseases|Laboratory Medicine and Pathology|Nephrology and Hypertension|Neurosurgery|Obstetrics and Gynecology|Oncology (Medical)|Ophthalmology|Orthopedic Surgery|Otolaryngology (ENT)/Head and Neck Surgery|Pulmonary Medicine|Sports Medicine|Urology|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Qwen2-VL-7B-Instruct|**0.4646**|0.7176|0.4486|0.6400|0.4805|0.3260|0.3428|0.5429|0.3813|0.7467|0.8000|0.4133|0.4524|0.4446|0.4472|0.5231|0.5358|0.5768|0.5222|
 
 #### Perceptual Granularities
