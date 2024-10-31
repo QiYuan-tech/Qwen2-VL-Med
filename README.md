@@ -8,7 +8,7 @@
 
 > [!NOTE]
 > 
-> Welcome to join [🥝QiyiGuo Research Group](https://papaya-gumdrop-233639.netlify.app/), We are dedicated to building safe, reliable, and practical visual and language AI models to serve society.
+> [GMAI-MMBench](https://uni-medical.github.io/GMAI-MMBench.github.io/), represents a pioneering benchmark specifically tailored for the medical domain, aimed at offering thorough assessments of Large Vision-Language Models (LVLMs) in diverse healthcare facets. Constructed from an extensive collection of 284 datasets sourced from both public repositories and hospitals, it encompasses a wide array of medical imaging modalities—38 in total—as well as addresses 18 clinical-related tasks and spans across 18 departments within the healthcare sector. Additionally, the dataset incorporates 4 levels of perceptual granularity, all formatted in a Visual Question Answering (VQA) style to facilitate its use.
 
 #### 📗Clinical Tasks
 
