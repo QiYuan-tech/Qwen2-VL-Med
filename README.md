@@ -19,8 +19,6 @@
 |Qwen2-VL-7B-Med|0.4453|0.4667|**0.5407**|0.3771|0.3217|0.3032|0.5057|0.3400|0.3926|0.2000|0.6250|0.4979|0.4709|0.4267|**0.5647**|0.2946|0.2609|**0.3054**|**0.3857**|
 |Qwen-VL-7B-Chat|0.3363|0.2741|0.3704|0.3600|0.3130|0.1011|0.4152|0.2200|0.2593|0.2800|0.4750|0.2571|0.3613|0.2400|0.2588|0.1913|0.1913|0.2343|0.2857|
 
-请注意，为了保持一致性，我将所有数值保留到了小数点后四位，尽管原始数据中的某些值只有两位小数。如果您需要对这些数字进行进一步调整，请告知我。
-
 #### 📙Departments
 
 |Model Name|Overall|Cardiovascular Surgery|Dermatology|Endocrinology|Gastroenterology and Hepatology|General Surgery|Hematology|Infectious Diseases|Laboratory Medicine and Pathology|Nephrology and Hypertension|Neurosurgery|Obstetrics and Gynecology|Oncology (Medical)|Ophthalmology|Orthopedic Surgery|Otolaryngology (ENT)/Head and Neck Surgery|Pulmonary Medicine|Sports Medicine|Urology|
