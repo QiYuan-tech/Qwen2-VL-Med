@@ -1,4 +1,6 @@
-# Qwen2-VL-Med
+<img src="./assets/logo.png" class="center-image">
+
+## 📦Model
 
 |Model Name|Download|Loss|
 |:-|:-|:-:|
