@@ -5,7 +5,6 @@
 |Model Name|Download|Loss|
 |:-|:-|:-:|
 |Qwen2-VL-7B-Med|[Weights](https://modelscope.cn/models/wangrongsheng/Qwen2-VL-7B-Med) / [Checkponints](https://modelscope.cn/models/wangrongsheng/Qwen2-VL-7B-Med-checkpoints)|![](./assets/loss1.png)|
-|Qwen2-VL-7B-Med2|[Weights](https://modelscope.cn/models/wangrongsheng/Qwen2-VL-7B-Med2) / [Checkponints](https://modelscope.cn/models/wangrongsheng/Qwen2-VL-7B-Med2-checkpoints)|![](./assets/loss2.png)|
 
 ## 📚Evaluation
 
